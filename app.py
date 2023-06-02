@@ -2,11 +2,12 @@ import os
 import discord
 from discord.ext import commands
 
-# from dotenv import load_dotenv
+from dotenv import load_dotenv
+
 # import random
 
-# load_dotenv()
-# DISCORD_TOEKN = os.getenv("DISCORD_TOKEN")
+load_dotenv()
+DISCORD_TOEKN = os.getenv("DISCORD_TOKEN")
 intents = discord.Intents.all()
 
 bot = commands.Bot(command_prefix=".", intents=intents)
@@ -93,4 +94,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 
-bot.run("MTAzNTc1NDc1MDA4OTY0NjE4MA.G8Tvhn.-Ctnk8m_yGSjm6H1v_e_iZq5L4uHx6QYC-fxeE")
+bot.run(DISCORD_TOEKN)
