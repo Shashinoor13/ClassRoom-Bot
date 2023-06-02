@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 # Changed Discord Token
+
 DISCORD_TOEKN = os.getenv("DISCORD_TOKEN")
 intents = discord.Intents.all()
 
