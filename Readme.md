@@ -25,7 +25,7 @@ pip install -r requirements.txt
 DISCORD_TOKEN=<your-discord-token>
 ```
 
-Replace <span>`<b>< your-discord-token ></b>`</span> with your Discord bot token.
+Replace <span>`< your-discord-token >`</span> with your Discord bot token.
 
 4. Create a JSON file named routine.json in the project directory and populate it with your desired routine schedule.
 
