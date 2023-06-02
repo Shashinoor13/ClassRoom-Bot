@@ -1,11 +1,12 @@
 import os
 import discord
 from discord.ext import commands
-from dotenv import load_dotenv
-import random
 
-load_dotenv()
-DISCORD_TOEKN = os.getenv("DISCORD_TOKEN")
+# from dotenv import load_dotenv
+# import random
+
+# load_dotenv()
+# DISCORD_TOEKN = os.getenv("DISCORD_TOKEN")
 intents = discord.Intents.all()
 
 bot = commands.Bot(command_prefix=".", intents=intents)
