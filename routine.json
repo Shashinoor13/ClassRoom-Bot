@@ -1,0 +1,65 @@
+{
+  "Sunday": {
+    "09:00": "No class",
+    "10:00": "Data Structures And Algorithms -Rajani Chulyado",
+    "11:00": "No class",
+    "12:00": "No class",
+    "13:00": "Digital Logic -Amrit Parajuli",
+    "14:00": "Digital Logic -Amrit Parajuli",
+    "15:00": "No class"
+  },
+  "Monday": {
+    "09:00": "Statistics and Probability -Dhiraj Giri",
+    "10:00": "Statistics and Probability -Dhiraj Giri",
+    "11:00": "No class",
+    "12:00": "Descrete Maths -Harish Chandra Bhandari",
+    "13:00": "Descrete Maths -Harish Chandra Bhandari",
+    "14:00": "Electronics -Santosh Saha",
+    "15:00": "Electronics -Santosh Saha"
+  },
+  "Tuesday": {
+    "09:00": "No class",
+    "10:00": "No class",
+    "11:00": "Digital Logic -Amrit Parajuli",
+    "12:00": "Digital Logic -Amrit Parajuli",
+    "13:00": "Digital Logic -Amrit Parajuli",
+    "14:00": "Data Structures And Algorithms -Rajani Chulyado",
+    "15:00": "Data Structures And Algorithms -Rajani Chulyado"
+  },
+  "Wednesday": {
+    "09:00": "Data Structures And Algorithms **Lab** -Rajani Chulyado",
+    "10:00": "Data Structures And Algorithms **Lab** -Rajani Chulyado",
+    "11:00": "No class",
+    "12:00": "Electronics -Santosh Saha",
+    "13:00": "Electronics -Santosh Saha",
+    "14:00": "No class",
+    "15:00": "No class"
+  },
+  "Thursday": {
+    "09:00": "Statistics and Probability -Dhiraj Giri",
+    "10:00": "Data Structures And Algorithms -Rajani Chulyado",
+    "11:00": "No class",
+    "12:00": "Descrete Maths -Harish Chandra Bhandari",
+    "13:00": "Descrete Maths -Harish Chandra Bhandari",
+    "14:00": "Digital Logic **Lab** -Amrit Parajuli",
+    "15:00": "Digital Logic **Lab** -Amrit Parajuli"
+  },
+  "Friday": {
+    "09:00": "No class",
+    "10:00": "No class",
+    "11:00": "No class",
+    "12:00": "No class",
+    "13:00": "No class",
+    "14:00": "No class",
+    "15:00": "No class"
+  },
+  "Saturday": {
+    "09:00": "Statistics and Probability -Dhiraj Giri",
+    "10:00": "Data Structures And Algorithms -Rajani Chulyado",
+    "11:00": "No class",
+    "12:00": "No class",
+    "13:00": "Digital Logic -Amrit Parajuli",
+    "14:00": "Digital Logic -Amrit Parajuli",
+    "15:00": "No class"
+  }
+}
