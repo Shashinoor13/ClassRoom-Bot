@@ -93,4 +93,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 
-bot.run("MTAzNTc1NDc1MDA4OTY0NjE4MA.G8Tvhn.-Ctnk8m_yGSjm6H1v_e_iZq5L4uHx6QYC-fxeE")
+bot.run(DISCORD_TOKEN)
